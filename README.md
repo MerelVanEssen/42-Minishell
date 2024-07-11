@@ -2,6 +2,7 @@
 
 Minishell is a project to learn and understand how bash works by making an own shell based on bash.
 This is the first groups project in the curriculem by 42 and it was good to learn more about git.
+My minishell partner was Sybe Plattje: https://github.com/SybePlattje
 
 ## Features
 - C
