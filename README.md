@@ -17,7 +17,7 @@ Needed:
     Libaries: c-standard libary, fcntl, unistd
 
 ## Installation
-Git clone https://github.com/MerelVanEssen/42-Minishell.git minishell
-cd minishell
-make
-./minishell
+Git clone https://github.com/MerelVanEssen/42-Minishell.git minishell <br>
+cd minishell <br>
+make <br>
+./minishell <br>
